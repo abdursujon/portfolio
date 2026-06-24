@@ -6,4 +6,11 @@
 6. Emilias Della Roma
 7. Java Project with (Spring, JUnit, Mockito, PostgreSQL)
 8. Python small AI project with pytest 
-9. Portfolio Project 
+9. Leetcode java 
+10. common algorithm 
+11. design pattern 
+12. Portfolio Project 
+
+cat > .env << 'EOF'
+VITE_GITHUB_USERNAME=abdursujon
+EOF
