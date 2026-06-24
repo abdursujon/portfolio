@@ -10,7 +10,3 @@
 10. common algorithm 
 11. design pattern 
 12. Portfolio Project 
-
-cat > .env << 'EOF'
-VITE_GITHUB_USERNAME=abdursujon
-EOF
